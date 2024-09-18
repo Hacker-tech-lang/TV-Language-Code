@@ -1,0 +1,4 @@
+git clone https://github.com/Hacker-tech-lang/TV-Language-Code.git
+cd TV-Language-Code
+git commit -m "Initial commit of TV language code project"
+git push origin main
